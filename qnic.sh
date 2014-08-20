@@ -2,13 +2,21 @@
 #
 # Developed by Logan Schmidt
 # for work at SynerComm
+# www.synercomm.com
 # 
 # Free to modify and use, MIT License
 # 
 clear
 start_test() {
+echo ""
+echo "  ____         _    "
+echo " / __ \  ___  (_)___"
+echo "/ /_/ / / _ \/ / __/"
+echo "\___\_\/_//_/_/\__/ "
+echo ""
+echo "  ~ Version 0.2 ~   "
 echo "---------------------"
-echo "----Test--started----"
+echo "----Test-starting----"
 echo "---------------------"
 date -u
 echo "By:"
